@@ -41,6 +41,8 @@ pub use frame_support::{
 
 /// Import the template pallet.
 pub use template;
+pub use tex;
+pub use participate;
 
 /// An index to a block.
 pub type BlockNumber = u32;
